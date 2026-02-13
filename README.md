@@ -44,10 +44,10 @@ To run Smart Café locally, use the following command:
 
 Linux / macOS:
 
-git clone https://github.com/sahilsalunke1312/your-repository-name.git
+git clone https://github.com/sahilsalunke1312/your-repository-name.git](https://github.com/sahilsalunke1312/Smart-Cafe-Amazing-Delicious-Cafe
 
 Windows:
-git clone https://github.com/sahilsalunke1312/your-repository-name.git
+git clone https://github.com/sahilsalunke1312/your-repository-name.git](https://github.com/sahilsalunke1312/Smart-Cafe-Amazing-Delicious-Cafe
 
 
 📞 Contact
