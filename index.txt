@@ -1,0 +1,225 @@
+
+ Smart Café - Amazing & Delicious Café
+
+This is a Café HTML template made by Sahil & Group
+
+
+# ---------- TOP BAR ----------
+
+📍 Café st, Delicious City, Pune 1312, India
+⏰ Daily : 8.00 am to 10.00 pm
+📞 +91 123 456 7890
+✉ booking@Café.com
+
+
+# ---------- HEADER ----------
+
+alt = Café - Home
+
+Menu:
+Home
+Menus
+About Us
+Our Chefs
+Contact
+
+Visit Us
+Café st, Delicious City, Pune 1312, India
+Open: 9.30 am - 2.30pm
+[booking@Café.com](mailto:booking@Café.com)
+
+Booking Request
++91-123-123456
+
+Button: Find A Table
+
+
+# ---------- HERO ----------
+
+Tradational & Hygine
+
+For the love of
+delicious Café
+
+Come with family & enjoy our Café delights.
+
+Button: View Our Menu
+
+Slide 2:
+delightful experience
+Flavors Inspired by the Seasons
+Come with family & savor mouthwatering dishes.
+
+Slide 3:
+amazing & delicious
+Where every flavor tells a story
+Come with family & enjoy our signature brews & bites.
+
+Button: Book A Table
+
+
+# ---------- SERVICE ----------
+
+Flavors For Royalty
+We Offer Top Notch
+
+At Smart Café, we offer top-notch flavors crafted with premium ingredients and perfection, giving you a truly royal taste experience.
+
+Breakfast – View Menu
+Appetizers – View Menu
+Drinks – View Menu
+
+
+# ---------- ABOUT ----------
+
+Our Story
+
+Every Flavor Tells a Story
+
+Smart Café began with a simple dream — to create a cozy place where great coffee and delicious bites bring people together.
+We believe a cafe is not just about food, but about comfort, conversations, and happy moments.
+Every cup and every dish is made with care, quality, and love.
+
+Book Through Call
++91 400 123 4567
+
+Button: Read More
+
+
+# ---------- SPECIAL DISH ----------
+
+Special Dish
+Lobster Tortellini
+
+Lobster Tortellini is a luxurious Italian delight featuring delicate pasta filled with tender lobster meat, paired with a rich creamy sauce.
+
+~~$40.00~~
+$20.00
+
+Button: View All Menu
+
+
+# ---------- MENU ----------
+
+Special Selection
+Delicious Menu
+
+1. Mango Delight Shake (Seasonal) – $9.50
+   Fresh mangoes blended with chilled milk and cream.
+
+2. Classic Cold Coffee – $8.00
+   Rich chilled coffee with creamy milk and chocolate drizzle.
+
+3. Veggie Delight Sandwich – $10.00
+   Toasted bread with fresh vegetables and cheese.
+
+4. Creamy White Pasta (New) – $19.00
+   Soft pasta in creamy white sauce with herbs.
+
+5. Crunchy Zinger Burger – $15.00
+   Crispy patty with lettuce and special sauce.
+
+6. Chocolate Lava Cake – $13.00
+   Warm cake with rich molten chocolate center.
+
+Winter Special Time: 7:00 pm – 9:00 pm
+
+Button: View All Menu
+
+
+# ---------- TESTIMONIAL ----------
+
+"I wanted to thank you for inviting me down for that amazing dinner. The food was extraordinary."
+
+Name: Sahil Salunke
+
+
+# ---------- RESERVATION ----------
+
+Online Reservation
+
+Booking Request: +91-123-123456
+
+Fields:
+Your Name
+Phone Number
+Select Person (1–7)
+Select Date
+Select Time (08:00 am – 10:00 pm)
+Message
+
+Button: Book A Table
+
+Contact Us
+
+Location:
+Café st, Delicious City, Pune 1312, India
+
+Lunch Time
+Monday to Sunday
+11.00 am – 2.30pm
+
+Dinner Time
+Monday to Sunday
+05.00 pm – 10.00pm
+
+
+# ---------- FEATURES ----------
+
+Why Choose Us
+Our Strength
+
+Hygienic Food
+Fresh, clean, and safely prepared meals.
+
+Fresh Environment
+Cozy and relaxing atmosphere.
+
+Skilled Chefs
+Expertly crafted dishes.
+
+Event & Party
+Ideal space for celebrations.
+
+
+# ---------- EVENT ----------
+
+Recent Updates
+Upcoming Event
+
+15/09/2026 – Food, Flavour
+08/09/2026 – Healthy Food
+03/09/2026 – Recipe
+
+Button: View Our Blog
+
+
+# ---------- FOOTER ----------
+
+Smart Café
+
+Café st, Delicious City, Pune 1312, India
+booking@Café.com
+Booking Request: +91-123-123456
+
+Open: 09:00 am – 01:00 pm
+
+Get News & Offers
+Subscribe & Get 25% Off
+
+Menu Links:
+Home
+Menus
+About Us
+Our Chefs
+Contact
+
+Social Links:
+Facebook
+Instagram
+Twitter
+Youtube
+Google Map
+
+© 2026 Smart Café. All Rights Reserved | Crafted by Sahil & Group
+
